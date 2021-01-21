@@ -9,5 +9,5 @@ class Student extends Model
 {
     use HasFactory;
     //protected $table = "Student";
-    public $timestamps = false;
+    //public $timestamps = false;
 }
